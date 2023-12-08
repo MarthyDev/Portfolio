@@ -1,9 +1,9 @@
-clear-background{
+.clear-background{
   height: 400px;
   background-color: #F3E4FF;
 }
 
-background{
+.background{
   height: 400px;
   background-color: #E5CDF8;
 }
